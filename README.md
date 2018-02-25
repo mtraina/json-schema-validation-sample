@@ -1,1 +1,1 @@
-# json-schema-validation-sample
+# json schema validation sample
