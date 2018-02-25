@@ -1,0 +1,17 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "title": "Product",
+  "description": "A product from the catalog",
+  "type": "object",
+  "properties": {
+    "isbn10": {
+      "description": "The unique identifier for a book",
+      "type": "string"
+    },
+    "title": {
+      "description": "Title of the book",
+      "type": "string"
+    }
+  },
+  "required": ["isbn10", "title"]
+}

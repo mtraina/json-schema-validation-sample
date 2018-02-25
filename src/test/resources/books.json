@@ -1,0 +1,18 @@
+[
+  {
+    "isbn10": "0000000000",
+    "title": "count of montecristo",
+    "details": {
+      "dimensions": "5.2 x 2.2 x 7.8 inches",
+      "language": "english"
+    }
+  },
+  {
+    "isbn10": "1111111111",
+    "title": "ulysses",
+    "details": {
+      "dimensions": "7 x 0.9 x 10 inches",
+      "language": "english"
+    }
+  }
+]
